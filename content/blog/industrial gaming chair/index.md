@@ -2,6 +2,7 @@
 title: Industrial gaming chair
 date: "2020-02-12"
 thumbnail: ./1.jpg
+tags: [Industrial, Woodworking, Modern, Custom design]
 description: Made to be ergonimic with an industrial/modern aesthetic.
 ---
 
